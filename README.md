@@ -3,6 +3,7 @@
 **A refined and practical walkthrough of the foundational Python trifecta: _Pandas_, _NumPy_, and _Matplotlib_.**
 
 This repository distills the essence of Python’s core data science stack into clean, illustrative notebooks — ideal for beginners and curious minds alike.
+Based on Zero to Mastery's [Data Science Bootcamp](https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/).
 
 ---
 
